@@ -4,9 +4,9 @@ First :
 
 1) cd Roborangers/rangers
 
-2)colcon build
+2) colcon build
 
-3)source install/setup.bash  # (use setup.zsh for OS X)
+3) source install/setup.bash  # (use setup.zsh for OS X)
 
-4)ros2 launch iarv_car tout.launch.py
+4) ros2 launch iarv_car tout.launch.py
 
