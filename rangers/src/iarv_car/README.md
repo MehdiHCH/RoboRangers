@@ -1,8 +1,9 @@
-## Partie 1 : Construction et Simulation du Robot
+## Part 1: Robot Construction and Simulation
 
-Tout d'abord : 
+First : 
 
-1) cd Roborangers/rangers 
-2) colcon build 
-3) source install/setup.bahs ( setup.zsh pour OS X) 
-4) ros2 launch iarv_car tout.launch.py 
+cd Roborangers/rangers
+colcon build
+source install/setup.bash  # (use setup.zsh for OS X)
+ros2 launch iarv_car tout.launch.py
+
